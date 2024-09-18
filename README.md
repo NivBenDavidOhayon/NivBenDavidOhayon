@@ -1,5 +1,8 @@
 ## Hi there, I'm Niv 👋
 
+I’m a Computer Science student with a strong passion for learning and exploring various programming domains.
+I love tackling new challenges and expanding my knowledge in the tech world.
+
 ## 📫 How to reach me:
 
 - **Email:** [niv123445@gmail.com]  
