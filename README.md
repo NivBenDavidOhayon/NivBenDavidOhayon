@@ -11,10 +11,10 @@ Python | Java | JavaScript | C | C++ | Git | HTML | CSS | JIRA | Android Studio 
 
 ## 🌱 Currently learning:
 
--Communication Networks
--Secure Programming and Cybersecurity
--Artificial Intelligence
--Principles of Programming Languages
+- **Communication Networks
+- **Secure Programming and Cybersecurity
+- **Artificial Intelligence
+- **Principles of Programming Languages
 
 ## 🎯 Recent projects:
 
