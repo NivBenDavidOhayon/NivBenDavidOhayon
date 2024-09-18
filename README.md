@@ -5,7 +5,7 @@ I love tackling new challenges and expanding my knowledge in the tech world.
 
 ## 📫 How to reach me:
 
-- **Email:** [niv123445@gmail.com]  
+- **Email:** niv123445@gmail.com  
 - **LinkedIn:** 
 
 ## 🔧 Languages & Tools:
