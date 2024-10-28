@@ -6,7 +6,7 @@ I love tackling new challenges and expanding my knowledge in the tech world.
 ## 📫 How to reach me:
 
 - **Email:** niv123445@gmail.com  
-- **LinkedIn:** [NivBenDavidOhayon](www.linkedin.com/in/niv-ben-david-ohayon)
+- **LinkedIn:** [NivBenDavidOhayon](https://www.linkedin.com/in/niv-ben-david-ohayon/)
 
 
 ## 🔧 Languages & Tools:
