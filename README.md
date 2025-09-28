@@ -5,7 +5,7 @@ I enjoy building practical solutions, from full-stack applications to machine le
 
 ## 📫 How to reach me:
 - **Email:** niv123445@gmail.com  
-- **LinkedIn:** [Niv Ben David Ohayon](https://www.linkedin.com/in/niv-ben-david-ohayon/)  
+- **LinkedIn:** [Niv Ben David Ohayon](https://www.linkedin.com/in/niv-ben-david-ohayon-b0790636a/)  
 
 ## 🔧 Languages & Tools:
 Python | Java | JavaScript | C | C++ | Git | HTML | CSS | JIRA | React | Node.js | MySQL | Docker | Android Studio 
