@@ -1,27 +1,33 @@
 ## Hi there, I'm Niv 👋
 
-I’m a Computer Science student with a strong passion for learning and exploring various programming domains.
-I love tackling new challenges and expanding my knowledge in the tech world.
+I’m a Computer Science graduate from Bar-Ilan University with a strong passion for technology, problem-solving, and continuous learning.  
+I enjoy building practical solutions, from full-stack applications to machine learning projects, and I’m always curious to explore new domains.
 
 ## 📫 How to reach me:
-
 - **Email:** niv123445@gmail.com  
-- **LinkedIn:** [NivBenDavidOhayon](https://www.linkedin.com/in/niv-ben-david-ohayon/)
-
+- **LinkedIn:** [Niv Ben David Ohayon](https://www.linkedin.com/in/niv-ben-david-ohayon/)  
 
 ## 🔧 Languages & Tools:
+Python | Java | JavaScript | C | C++ | Git | HTML | CSS | JIRA | React | Node.js | MySQL | Docker | Android Studio 
 
-Python | Java | JavaScript | C | C++ | Git | HTML | CSS | JIRA | Android Studio | React | Node.js | MySQL | Docker
+## 🚀 Projects:
 
-## 🌱 Currently learning:
+- **🌐 Social Network Application**  
+  Full-stack platform inspired by Facebook with real-time updates.  
+  Built with React, Node.js (MVC), MongoDB, and secure RESTful APIs.  
+  Includes Android app integration and Bloom filter for URL validation.
 
-- Communication Networks
-- Secure Programming and Cybersecurity
-- Artificial Intelligence
-- Principles of Programming Languages
+- **🤖 Final Project – Violence Detection in Iranian Protests (Computer Vision & NLP)**  
+  Developed a frame-level classification system to analyze protest footage.  
+  Applied zero-shot and few-shot learning techniques with LLM APIs.  
+  Ensured annotation consistency using Cohen’s Kappa across multiple annotators.
 
-## 🎯 Recent projects:
+- **🕹️ Arkanoid Game**  
+  Java-based OOP project implementing a brick-breaking game with multiple levels, animations, and collision handling.  
 
-- **🌐 Foobar**: A full-stack web application resembling a social media platform with user profiles, friend systems, posts, comments, and real-time updates. Built using React, Node.js, and MongoDB. The full project is now available for browsing on my GitHub repository
-  
-- **🕹️ Arkanoid**: A brick-breaking game featuring multiple levels and added challenges. Explore the source code and try it out on my GitHub!
+## 🌱 Currently exploring:
+- Advanced AI techniques & Deep Learning  
+- Full-Stack system design and scalability  
+- Data visualization and analytics  
+
+---
